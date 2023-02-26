@@ -16,7 +16,7 @@ const Header = () => {
       >
         <div className="mobile-navbar">
           <div className="mobile-nav-item">credit score check</div>
-          <div className="mobile-nav-item">credit card bill payment</div>
+          <div className="mobile-nav-item">CRED pay</div>
         </div>
       </div>
       <div className="max-width flex header">
