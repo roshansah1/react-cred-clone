@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-cred-clone/static/css/main.a875dc8c.css",
+    "main.js": "/react-cred-clone/static/js/main.1b4071d0.js",
+    "static/media/Gilroy-UltraLight.ttf": "/react-cred-clone/static/media/Gilroy-UltraLight.768c44ec57dc827381b3.ttf",
+    "static/media/Gilroy-Light.ttf": "/react-cred-clone/static/media/Gilroy-Light.1822a291dd62fe2cca72.ttf",
+    "static/media/Gilroy-Regular.ttf": "/react-cred-clone/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/react-cred-clone/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/react-cred-clone/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-Bold.ttf": "/react-cred-clone/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "static/media/Gilroy-ExtraBold.ttf": "/react-cred-clone/static/media/Gilroy-ExtraBold.59a66eb8c577778daaa5.ttf",
+    "static/media/Gilroy-Black.ttf": "/react-cred-clone/static/media/Gilroy-Black.3566c87fe5eaaa7052d5.ttf",
+    "index.html": "/react-cred-clone/index.html",
+    "main.a875dc8c.css.map": "/react-cred-clone/static/css/main.a875dc8c.css.map",
+    "main.1b4071d0.js.map": "/react-cred-clone/static/js/main.1b4071d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a875dc8c.css",
+    "static/js/main.1b4071d0.js"
+  ]
+}
